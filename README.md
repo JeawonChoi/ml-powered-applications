@@ -127,6 +127,11 @@
 
 ## 플라스크 앱 실행하기
 
+## 원서 Github
+
+- https://github.com/hundredblocks/ml-powered-applications
+
+
 앱을 실행하려면 저장소 루트 폴더로 이동하여 다음 명령을 실행하세요:
 
 `FLASK_APP=app.py flask run`
